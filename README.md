@@ -14,7 +14,7 @@ I focused on answering the following key questions:
 
 ### Data Sources
 I used the following datasets:
-1. **data/fatal_accidents.csv**  
+1. **datasets/fatal_accidents.csv**  
    This CSV file contains data on the number of fatal accidents and related features by state.
    - **`state`**: name of the state
    - **`fatal_accidents`**: number of fatal accidents
@@ -22,7 +22,7 @@ I used the following datasets:
    - **`alcohol`**: percentage of accidents involving alcohol
    - **`not_previously_involved`**: percentage of accidents involving first-time offenders
 
-2. **data/miles_driven.tsv**  
+2. **datasets/miles_driven.tsv**  
    This is a TSV file containing data on the total number of miles driven in each state.
    - **`state`**: name of the state
    - **`miles_driven`**: total number of miles driven in the state (in billions)
